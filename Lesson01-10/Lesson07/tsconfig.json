@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "target":"es5"
+    },
+    "files":["./demo01.ts"]
+}
