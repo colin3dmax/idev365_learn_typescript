@@ -1,0 +1,2 @@
+# idev365_learn_typescript
+跟山地人学TypeScript系列教程
